@@ -1,4 +1,4 @@
-package com.oms.configserver;
+package com.infy.configserver;
 
 
 import org.junit.Test;
